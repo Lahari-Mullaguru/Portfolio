@@ -1,1 +1,17 @@
+# Data Science Projects
 
+This repository contains various data science projects completed as part of my academic and personal work.
+
+## Project Overview
+
+###  Regression and Validation
+- **Objective:** Utilize the "ftsw" variable to predict the values of "lfgr" using regression models.
+- **Tools & Libraries:** Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn.
+- **Key Features:**
+  - Linear Regression
+  - Polynomial Regression (Degree 3 and Degree 9)
+  - Cross-validation for overfitting detection
+  - Comparison of regression models by MSE, RMSE, and R-squared metrics
+- **Results:**
+  - Detailed analysis and comparison of the performance of different regression models.
+  - Visualization of regression fits and error metrics.
