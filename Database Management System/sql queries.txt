@@ -1,0 +1,355 @@
+CREATE TABLE Country (
+    CountryId BIGINT PRIMARY KEY IDENTITY(1,1),
+    Country NVARCHAR(255) NOT NULL
+);
+CREATE TABLE Region (
+    RegionId BIGINT PRIMARY KEY IDENTITY(1,1),
+    Region NVARCHAR(255) NOT NULL,
+    CountryId BIGINT NOT NULL,
+    FOREIGN KEY (CountryId) REFERENCES Country(CountryId)
+);
+CREATE TABLE County (
+    CountyId BIGINT PRIMARY KEY IDENTITY(1,1),
+    County NVARCHAR(255) NOT NULL,
+    RegionId BIGINT NOT NULL,
+    FOREIGN KEY (RegionId) REFERENCES Region(RegionId)
+);
+CREATE TABLE City (
+    CityId BIGINT PRIMARY KEY IDENTITY(1,1),
+    City NVARCHAR(255) NOT NULL,
+    CountyId BIGINT NOT NULL,
+    FOREIGN KEY (CountyId) REFERENCES County(CountyId)
+);
+CREATE TABLE Customer (
+    Id BIGINT PRIMARY KEY,
+    Gender NVARCHAR(255),
+    FirstName NVARCHAR(255),
+    LastName NVARCHAR(255),
+    DateRegistered DATETIME,
+    CityId BIGINT NOT NULL,
+    FOREIGN KEY (CityId) REFERENCES City(CityId)
+);
+
+
+INSERT INTO Country (Country)
+SELECT DISTINCT Country
+FROM CustomerCity;
+
+INSERT INTO Region (Region, CountryId)
+SELECT DISTINCT 
+    CustomerCity.Region,
+    Country.CountryId
+FROM CustomerCity
+JOIN Country ON CustomerCity.Country = Country.Country;
+
+INSERT INTO County (County, RegionId)
+SELECT DISTINCT 
+    CustomerCity.County,
+    Region.RegionId
+FROM CustomerCity
+JOIN Region ON CustomerCity.Region = Region.Region
+JOIN Country ON CustomerCity.Country = Country.Country
+AND Region.CountryId = Country.CountryId;
+
+INSERT INTO City (City, CountyId)
+SELECT DISTINCT 
+    CustomerCity.City,
+    County.CountyId
+FROM CustomerCity
+JOIN County ON CustomerCity.County = County.County
+JOIN Region ON CustomerCity.Region = Region.Region
+JOIN Country ON CustomerCity.Country = Country.Country
+AND County.RegionId = Region.RegionId
+AND Region.CountryId = Country.CountryId;
+
+INSERT INTO Customer (Id, Gender, FirstName, LastName, DateRegistered, CityId)
+SELECT 
+    CustomerCity.Id,
+    CustomerCity.Gender,
+    CustomerCity.FirstName,
+    CustomerCity.LastName,
+    CustomerCity.DateRegistered,
+    City.CityId
+FROM CustomerCity
+JOIN City ON CustomerCity.City = City.City
+JOIN County ON CustomerCity.County = County.County
+JOIN Region ON CustomerCity.Region = Region.Region
+JOIN Country ON CustomerCity.Country = Country.Country
+AND City.CountyId = County.CountyId
+AND County.RegionId = Region.RegionId
+AND Region.CountryId = Country.CountryId;
+
+
+CREATE TABLE Product (
+    ProductCode NVARCHAR(50) PRIMARY KEY,
+    Name NVARCHAR(256) NOT NULL,
+    Features NVARCHAR(3600),
+    Description NVARCHAR(3600)
+);
+CREATE TABLE ProductGroup (
+    ProductGroupId INT PRIMARY KEY IDENTITY(1,1),
+    ProductGroup NVARCHAR(128) NOT NULL
+);
+CREATE TABLE Variant (
+    VariantCode NVARCHAR(50) PRIMARY KEY,
+    Cup NVARCHAR(256),
+    Size NVARCHAR(256),
+    LegLength NVARCHAR(256),
+    Colour NVARCHAR(256),
+    Price MONEY,
+    ProductCode NVARCHAR(50) NOT NULL,
+    FOREIGN KEY (ProductCode) REFERENCES Product(ProductCode)
+);
+CREATE TABLE ProductGroupVariant (
+    VariantCode NVARCHAR(50),
+    ProductGroupId INT,
+    PRIMARY KEY (VariantCode, ProductGroupId),
+    FOREIGN KEY (VariantCode) REFERENCES Variant(VariantCode),
+    FOREIGN KEY (ProductGroupId) REFERENCES ProductGroup(ProductGroupId)
+);
+
+
+INSERT INTO ProductGroup (ProductGroup)
+SELECT DISTINCT ProductGroup
+FROM Product; 
+
+INSERT INTO Products (ProductCode, Name, Features, Description)
+SELECT DISTINCT ProductCode, Name, Features, Description
+FROM Product;
+
+INSERT INTO Variant (VariantCode, Cup, Size, LegLength, Colour, Price, ProductCode)
+SELECT DISTINCT VariantCode, Cup, Size, LegLength, Colour, Price, ProductCode
+FROM Product;
+
+INSERT INTO ProductGroupVariant (VariantCode, ProductGroupId)
+SELECT DISTINCT 
+   Product.VariantCode,
+    ProductGroup.ProductGroupId
+FROM Product
+JOIN ProductGroup ON Product.ProductGroup = ProductGroup.ProductGroup;
+
+SELECT DISTINCT 
+    p.ProductCode,
+    p.Name,
+    pg.ProductGroup
+FROM 
+    ProductGroupVariant pgv
+JOIN 
+    Variant v ON pgv.VariantCode = v.VariantCode
+JOIN 
+    Product p ON v.ProductCode = p.ProductCode
+JOIN 
+    ProductGroup pg ON pgv.ProductGroupId = pg.ProductGroupId
+WHERE 
+    pg.ProductGroupId = @ProductGroupId; -- Replace @ProductGroupId with the specific ID you're querying
+
+
+
+CREATE TABLE Order (
+    OrderNumber NVARCHAR(50) PRIMARY KEY,
+    OrderCreateDate DATETIME,
+    OrderStatusCode INT,
+    CustomerCityId BIGINT,
+    BillingCurrency NVARCHAR(8),
+    FOREIGN KEY (CustomerCityId) REFERENCES Customer(CustomerCityId) -- Assuming CustomerCityId exists in Customer table
+);
+CREATE TABLE OrderItem (
+    OrderItemNumber NVARCHAR(32) PRIMARY KEY,
+    OrderNumber NVARCHAR(50) NOT NULL,
+    ProductGroup NVARCHAR(128) NOT NULL,   -- Foreign key to ProductGroup (from the ProductGroup table)
+    ProductCode NVARCHAR(50) NOT NULL,     -- Foreign key to Product (from the Product table)
+    VariantCode NVARCHAR(50) NOT NULL,     -- Foreign key to Variant (from the Variant table)
+    Quantity INT,
+    UnitPrice MONEY,
+    LineItemTotal MONEY,
+    FOREIGN KEY (OrderNumber) REFERENCES Order(OrderNumber),
+    FOREIGN KEY (ProductGroup) REFERENCES ProductGroup(ProductGroup),
+    FOREIGN KEY (ProductCode) REFERENCES Product(ProductCode),
+    FOREIGN KEY (VariantCode) REFERENCES Variant(VariantCode)
+);
+
+
+INSERT INTO Order (OrderNumber, OrderCreateDate, OrderStatusCode, CustomerCityId, BillingCurrency)
+SELECT DISTINCT OrderNumber, OrderCreateDate, OrderStatusCode, CustomerCityId, BillingCurrency
+FROM OrderItem;
+
+INSERT INTO OrderItem (
+    OrderItemNumber, 
+    OrderNumber, 
+    ProductGroup, 
+    ProductCode, 
+    VariantCode, 
+    Quantity, 
+    UnitPrice, 
+    LineItemTotal
+)
+SELECT 
+    oi.OrderItemNumber,
+    o.OrderNumber,                   
+    pg.ProductGroup,                
+    p.ProductCode,                   
+    v.VariantCode,                   
+    oi.Quantity,
+    oi.UnitPrice,
+    oi.LineItemTotal
+FROM 
+    OrderItem oi        
+JOIN 
+    Order o ON oi.OrderNumber = o.OrderNumber
+JOIN 
+    ProductGroup pg ON oi.ProductGroup = pg.ProductGroup
+JOIN 
+    Product p ON oi.ProductCode = p.ProductCode
+JOIN 
+    Variant v ON oi.VariantCode = v.VariantCode;
+
+
+
+
+ALTER TABLE Order
+ADD TotalLineItems INT,
+    SavedTotal MONEY;
+
+UPDATE Order
+SET TotalLineItems = (
+        SELECT SUM(Quantity)
+        FROM OrderItem
+        WHERE OrderItem.OrderNumber = Order.OrderNumber
+    ),
+    SavedTotal = (
+        SELECT SUM(LineItemTotal)
+        FROM OrderItem
+        WHERE OrderItem.OrderNumber = Order.OrderNumber
+    );
+
+
+
+CREATE TRIGGER UpdateOrderTotals
+ON OrderItemdetails
+AFTER INSERT, UPDATE, DELETE
+AS
+BEGIN
+    UPDATE Orders
+    SET TotalLineItems = (
+            SELECT SUM(Quantity)
+            FROM OrderItemdetails
+            WHERE OrderItemdetails.OrderNumber = Orders.OrderNumber
+        ),
+        SavedTotal = (
+            SELECT SUM(LineItemTotal)
+            FROM OrderItemdetails
+            WHERE OrderItemdetails.OrderNumber = Orders.OrderNumber
+        )
+    WHERE Orders.OrderNumber IN (
+        SELECT DISTINCT OrderNumber FROM inserted
+        UNION
+        SELECT DISTINCT OrderNumber FROM deleted
+    );
+END;
+
+
+
+
+CREATE PROCEDURE prCreateOrderGroup
+    @OrderNumber NVARCHAR(32),
+    @OrderCreateDate DATETIME,
+    @CustomerCityId INT,
+    @OrderStatusCode INT = 0, 
+    @BillingCurrency NVARCHAR(8) = 'GBP' 
+AS
+BEGIN
+    -- Start transaction
+    BEGIN TRANSACTION;
+
+    BEGIN TRY
+        INSERT INTO [Orders] (OrderNumber, OrderCreateDate, OrderStatusCode, CustomerCityId, BillingCurrency, TotalLineItems, SavedTotal)
+        VALUES (@OrderNumber, @OrderCreateDate, @OrderStatusCode, @CustomerCityId, @BillingCurrency, 0, 0);
+
+       
+        COMMIT TRANSACTION;
+        PRINT 'Order created successfully.';
+    END TRY
+
+    BEGIN CATCH
+        ROLLBACK TRANSACTION;
+        PRINT 'Error occurred. Transaction rolled back.';
+      
+        DECLARE @ErrorMessage NVARCHAR(4000) = ERROR_MESSAGE();
+        DECLARE @ErrorSeverity INT = ERROR_SEVERITY();
+        DECLARE @ErrorState INT = ERROR_STATE();
+
+        RAISERROR (@ErrorMessage, @ErrorSeverity, @ErrorState);
+    END CATCH;
+END;
+
+
+
+
+
+CREATE PROCEDURE prCreateOrderItem
+    @OrderNumber NVARCHAR(32),
+    @OrderItemNumber NVARCHAR(32),
+    @ProductGroup NVARCHAR(128),
+    @ProductCode NVARCHAR(255),
+    @VariantCode NVARCHAR(255),
+    @Quantity INT,
+    @UnitPrice MONEY
+AS
+BEGIN
+    -- Calculate the line item total
+    DECLARE @LineItemTotal MONEY;
+    SET @LineItemTotal = @Quantity * @UnitPrice;
+
+    -- Start transaction
+    BEGIN TRANSACTION;
+
+    BEGIN TRY
+        -- Check if the order exists
+        IF NOT EXISTS (SELECT 1 FROM [Orders] WHERE OrderNumber = @OrderNumber)
+        BEGIN
+            RAISERROR ('Order does not exist.', 16, 1);
+            RETURN;
+        END
+
+        -- Insert into the OrderItem table
+        INSERT INTO OrderItemdetails (OrderItemNumber, OrderNumber, ProductGroupId, ProductCode, VariantCode, Quantity, UnitPrice, LineItemTotal)
+        VALUES (@OrderItemNumber, @OrderNumber, @ProductGroup, @ProductCode, @VariantCode, @Quantity, @UnitPrice, @LineItemTotal);
+
+        -- Update the TotalLineItems and SavedTotal in Order
+        UPDATE [Orders]
+        SET TotalLineItems = TotalLineItems + @Quantity,
+            SavedTotal = SavedTotal + @LineItemTotal
+        WHERE OrderNumber = @OrderNumber;
+
+        -- Commit transaction if successful
+        COMMIT TRANSACTION;
+        PRINT 'Order item created and order updated successfully.';
+    END TRY
+
+    BEGIN CATCH
+        -- Rollback transaction if an error occurs
+        ROLLBACK TRANSACTION;
+        PRINT 'Error occurred. Transaction rolled back.';
+        
+        -- Return error details
+        DECLARE @ErrorMessage NVARCHAR(4000) = ERROR_MESSAGE();
+        DECLARE @ErrorSeverity INT = ERROR_SEVERITY();
+        DECLARE @ErrorState INT = ERROR_STATE();
+
+        RAISERROR (@ErrorMessage, @ErrorSeverity, @ErrorState);
+    END CATCH;
+END;
+
+
+
+CREATE INDEX idx_OrderItem_OrderNumber ON OrderItem(OrderNumber);
+CREATE INDEX idx_Order_StatusDate ON [Order](OrderStatusCode, OrderCreateDate);
+CREATE INDEX idx_Order_CustomerCityId ON [Order](CustomerCityId);
+CREATE INDEX idx_OrderItem_ProductGroup_ProductCode_VariantCode 
+    ON OrderItem(ProductGroup, ProductCode, VariantCode);
+CREATE INDEX idx_Order_TotalLineItems_SavedTotal ON [Order](TotalLineItems, SavedTotal);
+
+
+
+
+
