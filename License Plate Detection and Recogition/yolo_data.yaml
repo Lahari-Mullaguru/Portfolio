@@ -1,0 +1,7 @@
+path: C:/Users/gopal/Downloads/yolo_data  # Base directory
+
+train: images/train  # Training images
+val: images/valid    # Validation images
+
+names:
+  0: license_plate   # Class names
