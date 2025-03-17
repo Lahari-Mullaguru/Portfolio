@@ -13,7 +13,7 @@ User-friendly **Streamlit UI**
 **Clone the Repository**
 ```bash
 git clone https://github.com/Lahari-Mullaguru/Portfolio.git
-cd Portfolio/NewsSummarization
+cd Portfolio/NewsSummary
 
 ** Install Dependencies**
 pip install -r requirements.txt
