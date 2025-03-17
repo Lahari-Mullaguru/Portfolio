@@ -4,25 +4,30 @@ from textblob import TextBlob
 from gtts import gTTS
 import os
 
-
 def fetch_news(company_name):
-    search_url = f"https://news.google.com/rss/search?q={company_name}"
-    response = requests.get(search_url)
-    soup = BeautifulSoup(response.content, "xml")
+    API_KEY = "ed699af727aa4c0d9463f19babe2fb7e"  # Your API Key
+    url = f"https://newsapi.org/v2/everything?q={company_name}&language=en&apiKey={API_KEY}"
+
+    response = requests.get(url)
+    data = response.json()
+
+    # Print API Response for Debugging
+    print("Full API Response in Flask API:", data)
 
     articles = []
-    for item in soup.find_all("item")[:10]:  # Fetch top 10 articles
-        title = item.title.text
-        summary = item.description.text
-        url = item.link.text
-
-        articles.append({
-            "title": title,
-            "summary": summary,
-            "url": url
-        })
+    if "articles" in data and len(data["articles"]) > 0:
+        for item in data["articles"][:10]:  # Fetch first 10 articles
+            articles.append({
+                "title": item.get("title", "No title available"),
+                "summary": item.get("description", "No description available"),
+                "url": item.get("url", ""),
+                "source": item["source"]["name"]
+            })
+    else:
+        print(f"Warning: No articles found for {company_name}")
 
     return articles
+
 
 
 def analyze_sentiment(text):
