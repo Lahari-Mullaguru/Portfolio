@@ -6,8 +6,15 @@ app = Flask(__name__)
 @app.route('/fetch_news', methods=['POST'])
 def fetch_news_api():
     data = request.json
-    company = data.get("company")
+    company = data.get("company", "")
+
+    # Fetch news
     articles = fetch_news(company)
+
+    # Debugging output
+    print(f"Fetching news for: {company}")
+    print(f"API Response: {articles}")  # Print response for debugging
+
     return jsonify({"articles": articles})
 
 @app.route('/analyze_sentiment', methods=['POST'])
