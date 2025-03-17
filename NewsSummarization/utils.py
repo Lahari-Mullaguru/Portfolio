@@ -7,16 +7,21 @@ import os
 # Function to extract news articles
 import requests
 
+import requests
+
 def fetch_news(company_name):
-    API_KEY = "ed699af727aa4c0d9463f19babe2fb7e"  # API Key
+    API_KEY = "ed699af727aa4c0d9463f19babe2fb7e"  # Your NewsAPI key
     url = f"https://newsapi.org/v2/everything?q={company_name}&language=en&apiKey={API_KEY}"
 
     response = requests.get(url)
     data = response.json()
 
+    # Debugging output
+    print("Full API Response:", data)
+
     articles = []
-    if "articles" in data and data["articles"]:  # Check if there are articles
-        for item in data["articles"][:10]:  # Get only the first 10
+    if "articles" in data and len(data["articles"]) > 0:  # Ensure valid articles exist
+        for item in data["articles"][:10]:  # Fetch first 10 articles
             articles.append({
                 "title": item.get("title", "No title available"),
                 "summary": item.get("description", "No description available"),
@@ -24,9 +29,10 @@ def fetch_news(company_name):
                 "source": item["source"]["name"]
             })
     else:
-        print(f"Error: No articles found for {company_name}. Response: {data}")
+        print(f"Warning: No articles found for {company_name}")
 
     return articles
+
 
 # Function for sentiment analysis
 def analyze_sentiment(text):
