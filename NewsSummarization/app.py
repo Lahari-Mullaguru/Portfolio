@@ -26,11 +26,11 @@ if st.button("Fetch News"):
                 st.write(f"**{i+1}. {article['title']}** - *{article['sentiment']}*")
 
             # Convert summary to Hindi speech (API)
-            st.subheader("Hindi Text-to-Speech")
+            st.subheader("🎙 Hindi Text-to-Speech")
             summary_text = " ".join([article['title'] for article in analyzed_data])
             tts_response = requests.post("https://your-api-url/tts", json={"text": summary_text})
             
-            st.audio("output.mp3")
+            st.audio("static/output.mp3")
 
         else:
             st.error("No articles found. Try another company!")
