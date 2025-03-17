@@ -5,22 +5,26 @@ from gtts import gTTS
 import os
 
 # Function to extract news articles
+import requests
+
 def fetch_news(company_name):
-    API_KEY = "ed699af727aa4c0d9463f19babe2fb7e"  # Your NewsAPI key
+    API_KEY = "ed699af727aa4c0d9463f19babe2fb7e"  # API Key
     url = f"https://newsapi.org/v2/everything?q={company_name}&language=en&apiKey={API_KEY}"
-    
+
     response = requests.get(url)
     data = response.json()
 
     articles = []
-    if "articles" in data:
-        for item in data["articles"][:10]:  # Fetch first 10 articles
+    if "articles" in data and data["articles"]:  # Check if there are articles
+        for item in data["articles"][:10]:  # Get only the first 10
             articles.append({
-                "title": item["title"],
-                "summary": item["description"],
-                "url": item["url"],
+                "title": item.get("title", "No title available"),
+                "summary": item.get("description", "No description available"),
+                "url": item.get("url", ""),
                 "source": item["source"]["name"]
             })
+    else:
+        print(f"Error: No articles found for {company_name}. Response: {data}")
 
     return articles
 
