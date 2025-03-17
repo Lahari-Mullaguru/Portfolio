@@ -6,18 +6,20 @@ import os
 
 # Function to extract news articles
 def fetch_news(company_name):
-    search_url = f"https://news.google.com/search?q={company_name}"
-    response = requests.get(search_url)
-    soup = BeautifulSoup(response.text, "html.parser")
+    API_KEY = "ed699af727aa4c0d9463f19babe2fb7e"  # Your NewsAPI key
+    url = f"https://newsapi.org/v2/everything?q={company_name}&language=en&apiKey={API_KEY}"
+    
+    response = requests.get(url)
+    data = response.json()
 
     articles = []
-    for item in soup.select("article")[:10]:  # Fetching top 10 articles
-        title = item.find("h3")
-        link = item.find("a")
-        if title and link:
+    if "articles" in data:
+        for item in data["articles"][:10]:  # Fetch first 10 articles
             articles.append({
-                "title": title.get_text(),
-                "url": "https://news.google.com" + link['href'][1:]
+                "title": item["title"],
+                "summary": item["description"],
+                "url": item["url"],
+                "source": item["source"]["name"]
             })
 
     return articles
