@@ -43,7 +43,7 @@ The dataset consists of **three parts**:
 - **Python**
 - **OpenCV**
 - **Tesseract OCR**
-- **TensorFlow, PyTorch** *(based on your implementation)*
+- **TensorFlow, PyTorch** 
 - **Pandas, NumPy, Matplotlib, Seaborn**
 
 ---
@@ -55,7 +55,7 @@ The dataset consists of **three parts**:
    - Image resizing, normalization
    - Bounding box formatting
 3. **License Plate Detection**
-   - Custom object detection pipeline (e.g., using CNN, YOLO, or Haar Cascades)
+   - Custom object detection pipeline (using CNN, YOLO)
 4. **Character Recognition**
    - Using `pytesseract` or a custom-trained CNN for OCR
 5. **Model Evaluation**
