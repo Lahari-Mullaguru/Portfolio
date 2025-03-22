@@ -1,6 +1,34 @@
-# Data Science Projects
+# Regression and Validation
 
-This repository contains various data science projects completed as part of my academic and personal work.
+**Project Type:** Data Science / Machine Learning
+
+## Overview
+
+This project demonstrates a basic workflow for performing regression analysis and validation techniques using a dataset named `swpg.csv`. The focus is on understanding relationships within the data and evaluating the predictive accuracy of a regression model.
+
+## Contents
+
+- Data import and preprocessing
+- Exploratory Data Analysis (EDA)
+- Statistical description of the dataset
+- Regression modeling
+- Model validation and performance evaluation
+
+## Dataset
+
+- **File:** `swpg.csv`
+- **Shape:** 20 rows × 2 columns
+- Contains numerical values used for regression analysis.
+
+## Requirements
+
+The project is implemented in Python using Jupyter Notebook. The following libraries are used:
+
+- `numpy`
+- `pandas`
+- `matplotlib`
+- `seaborn`
+- `sklearn`
 
 ## Project Overview
 
