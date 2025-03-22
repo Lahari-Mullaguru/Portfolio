@@ -1,4 +1,3 @@
-<<<<<<< HEAD:News Summarization and Analysis (NLP)/README.md
 # News Summarization & Sentiment Analysis App
 
 ## Features:
