@@ -1,0 +1,6 @@
+streamlit
+flask
+requests
+beautifulsoup4
+textblob
+gtts
