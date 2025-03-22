@@ -1,6 +1,19 @@
+<<<<<<< HEAD:News Summarization and Analysis (NLP)/requirements.txt
 streamlit
 flask
 requests
 beautifulsoup4
 textblob
 gtts
+=======
+streamlit
+fastapi
+uvicorn
+requests
+beautifulsoup4
+nltk
+textblob
+gtts
+deep-translator
+python-dotenv
+>>>>>>> b965305cbfd233045619b5dac7e87fe8f873b497:NewsSummary/requirements.txt
