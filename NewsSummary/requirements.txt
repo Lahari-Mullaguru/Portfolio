@@ -1,6 +1,10 @@
 streamlit
-flask
+fastapi
+uvicorn
 requests
 beautifulsoup4
+nltk
 textblob
 gtts
+deep-translator
+python-dotenv
