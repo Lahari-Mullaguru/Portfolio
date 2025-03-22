@@ -1,0 +1,67 @@
+endpoint=https://my-project-02027.nw.r.appspot.com
+
+## LAMBDA
+
+echo Anything there?
+curl $endpoint/scaled_ready
+
+echo Warmup Lambda
+echo can repeat for second scalable - "ec2" "ecs" "emr" instead of "lambda"
+curl -s -H "Content-Type: application/json" -X POST -d '{"s":"ec2", "r":"3"}' $endpoint/warmup
+
+ready=`curl -s $endpoint/scaled_ready | jq '.warm'`
+echo Test ready
+while [[ $ready != '"true"' && $ready != "true" && $ready != '"True"' ]] # allow minor variation
+do
+    echo Not yet - waiting 10 before retrying
+    sleep 10
+    ready=`curl -s $endpoint/scaled_ready | jq '.warm'`
+done
+
+
+echo Warm cost
+curl $endpoint/get_warmup_cost
+
+echo Scalable service endpoints
+curl $endpoint/get_endpoints
+# Provide information about how to call the scalable service - a result of this could be 
+# called independently, e.g. "curl -d {<args>} http://ADDRESS/PATH", so should comprise a
+# list of such strings
+
+echo Analyse
+curl -s -H "Content-Type: application/json" -X POST -d '{"h": "101", "d": "10000", "t": "sell", "p": "7"}' $endpoint/analyse
+
+echo Results - sigs then avs
+curl $endpoint/get_sig_vars9599
+curl $endpoint/get_avg_vars9599
+
+echo Profits - sigs then avs
+curl $endpoint/get_sig_profit_loss
+curl $endpoint/get_tot_profit_loss
+
+echo Chart
+curl $endpoint/get_chart_url
+# result should be suitable to use as launch command with e.g. Firefox: firefox chart_url 
+
+echo Time cost
+curl $endpoint/get_time_cost
+
+echo Audit
+curl $endpoint/get_audit
+
+echo Endpoints
+curl $endpoint/get_endpoints
+
+echo 3 tidyup calls
+curl $endpoint/reset
+curl $endpoint/terminate
+
+gone=`curl $endpoint/scaled_terminated | jq '.terminated'`
+echo Terminated?
+while [[ $gone != '"true"' && $gone != "true" && $gone != '"True"' ]] # allow minor variation
+do
+    echo Not yet - waiting 10 before retrying
+    sleep 10
+    ready=`curl -s $endpoint/scaled_terminated | jq '.terminated'`
+done
+
