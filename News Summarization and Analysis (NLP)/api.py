@@ -1,24 +1,3 @@
-<<<<<<< HEAD:News Summarization and Analysis (NLP)/api.py
-from flask import Flask, request, jsonify
-from utils import fetch_news
-
-app = Flask(__name__)
-
-@app.route('/fetch_news', methods=['POST'])
-def fetch_news_api():
-    data = request.json
-    print(f"🔹 Received Request: {data}")  # Print request data for debugging
-
-    company = data.get("company", "")
-    articles = fetch_news(company)
-
-    print(f"🔹 News Articles Extracted: {articles}")  # Print extracted articles
-
-    return jsonify({"articles": articles})
-
-if __name__ == "__main__":
-    app.run(debug=True)
-=======
 from fastapi import FastAPI, Response
 from fastapi.staticfiles import StaticFiles
 from utils import fetch_news, analyze_sentiment, generate_comparative_analysis, text_to_speech
@@ -75,4 +54,3 @@ def analyze_news(company_name: str):
     # Pretty-print the JSON output
     pretty_output = json.dumps(output, indent=4, ensure_ascii=False)
     return Response(content=pretty_output, media_type="application/json")
->>>>>>> b965305cbfd233045619b5dac7e87fe8f873b497:NewsSummary/api.py

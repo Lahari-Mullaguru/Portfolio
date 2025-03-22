@@ -1,31 +1,3 @@
-<<<<<<< HEAD:News Summarization and Analysis (NLP)/README.md
-# News Summarization & Sentiment Analysis App
-
-## Features:
-Fetches news articles related to a company  
-Performs sentiment analysis  
-Provides comparative sentiment insights  
-Converts summary into **Hindi speech**  
-User-friendly **Streamlit UI**  
-
----
-
-## **Setup Instructions**
-**Clone the Repository**
-```bash
-git clone https://github.com/Lahari-Mullaguru/Portfolio.git
-cd Portfolio/NewsSummary
-
-** Install Dependencies**
-pip install -r requirements.txt
-
-**Run Flask API Server**
-python api.py
-
-** Run Streamlit App**
-streamlit run app.py
-
-=======
 # News Summarization and Sentiment Analysis Application
 
 This application extracts news articles related to a given company, performs sentiment analysis, conducts a comparative analysis, and generates a Hindi text-to-speech summary.
@@ -71,4 +43,3 @@ This application extracts news articles related to a given company, performs sen
 9. **Access the application**:
    Open your browser and go to http://localhost:8501.
    Enter a company name and click "Analyze News"
->>>>>>> b965305cbfd233045619b5dac7e87fe8f873b497:NewsSummary/README.md
