@@ -2,7 +2,6 @@
 
 This repository contains two comprehensive projects focused on real-world data analysis and predictive modeling using Python. It includes exploratory data analysis, statistical modeling, and machine learning techniques applied to domain-specific datasets.
 
----
 ## 1. Business Analytics
 
 ### Overview
@@ -17,8 +16,6 @@ This notebook demonstrates how to load and analyze pre-processed training and te
 - In-depth analysis of business-related structured data
 - Comparison of predictions vs. actual outcomes
 - Hands-on use of Python data science libraries (Pandas, Matplotlib, Seaborn)
-
----
 
 ## 2. Machine Learning
 
@@ -37,9 +34,7 @@ This notebook focuses on applying machine learning techniques to the **Epileptic
 - Performance comparison across multiple models
 - Preprocessing pipeline for time-series health data
 - High accuracy achieved with ensemble methods
-
----
-
+  
 ## Tech Stack
 
 | Tool/Library     | Purpose                         |
