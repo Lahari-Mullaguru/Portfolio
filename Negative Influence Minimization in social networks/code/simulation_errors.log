@@ -1,0 +1,1254 @@
+ERROR:root:Error encountered during method rl_fnim with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method hifm with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rf with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method gb with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method degree with 5 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method pagerank with 5 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method cmia-o with 5 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method biog with 5 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method rbf with 5 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method fair-cmia-o with 5 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method myopic_maximin with 5 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method protect with 5 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method naive_protect with 5 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method rl_fnim with 5 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method hifm with 5 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method rf with 5 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method gb with 5 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method degree with 10 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method pagerank with 10 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method cmia-o with 10 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method biog with 10 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method rbf with 10 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method fair-cmia-o with 10 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method myopic_maximin with 10 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method protect with 10 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method naive_protect with 10 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method rl_fnim with 10 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method hifm with 10 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method rf with 10 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method gb with 10 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method degree with 15 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method pagerank with 15 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method cmia-o with 15 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method biog with 15 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method rbf with 15 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method fair-cmia-o with 15 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method myopic_maximin with 15 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method protect with 15 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method naive_protect with 15 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method rl_fnim with 15 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method hifm with 15 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method rf with 15 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method gb with 15 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method degree with 20 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method pagerank with 20 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method cmia-o with 20 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method biog with 20 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method rbf with 20 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method fair-cmia-o with 20 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method myopic_maximin with 20 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method protect with 20 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method naive_protect with 20 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method rl_fnim with 20 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method hifm with 20 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method rf with 20 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method gb with 20 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method degree with 25 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method pagerank with 25 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method cmia-o with 25 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method biog with 25 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method rbf with 25 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method fair-cmia-o with 25 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method myopic_maximin with 25 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method protect with 25 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method naive_protect with 25 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method rl_fnim with 25 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method hifm with 25 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method rf with 25 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method gb with 25 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method rl_fnim with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method hifm with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rf with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method gb with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method degree with 5 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method pagerank with 5 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method cmia-o with 5 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method biog with 5 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method rbf with 5 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method fair-cmia-o with 5 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method myopic_maximin with 5 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method protect with 5 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method naive_protect with 5 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method rl_fnim with 5 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method hifm with 5 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method rf with 5 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method gb with 5 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method degree with 10 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method pagerank with 10 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method cmia-o with 10 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method biog with 10 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method rbf with 10 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method fair-cmia-o with 10 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method myopic_maximin with 10 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method protect with 10 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method naive_protect with 10 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method rl_fnim with 10 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method hifm with 10 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method rf with 10 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method gb with 10 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method degree with 15 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method pagerank with 15 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method cmia-o with 15 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method biog with 15 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method rbf with 15 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method fair-cmia-o with 15 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method myopic_maximin with 15 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method protect with 15 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method naive_protect with 15 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method rl_fnim with 15 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method hifm with 15 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method rf with 15 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method gb with 15 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method degree with 20 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method pagerank with 20 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method cmia-o with 20 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method biog with 20 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method rbf with 20 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method fair-cmia-o with 20 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method myopic_maximin with 20 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method protect with 20 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method naive_protect with 20 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method rl_fnim with 20 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method hifm with 20 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method rf with 20 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method gb with 20 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method degree with 25 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method pagerank with 25 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method cmia-o with 25 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method biog with 25 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method rbf with 25 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method fair-cmia-o with 25 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method myopic_maximin with 25 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method protect with 25 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method naive_protect with 25 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method rl_fnim with 25 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method hifm with 25 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method rf with 25 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method gb with 25 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method cmia-o with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method naive_protect with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method cmia-o with 5 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method naive_protect with 5 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method cmia-o with 10 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method naive_protect with 10 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method cmia-o with 15 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method naive_protect with 15 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method cmia-o with 20 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method naive_protect with 20 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method cmia-o with 25 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method naive_protect with 25 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method cmia-o with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method naive_protect with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method cmia-o with 5 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method naive_protect with 5 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method cmia-o with 10 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method naive_protect with 10 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method cmia-o with 15 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method naive_protect with 15 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method cmia-o with 20 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method naive_protect with 20 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method cmia-o with 25 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method naive_protect with 25 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method cmia-o with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method naive_protect with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method cmia-o with 5 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method naive_protect with 5 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method cmia-o with 10 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method naive_protect with 10 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method cmia-o with 15 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method naive_protect with 15 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method cmia-o with 20 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method naive_protect with 20 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method cmia-o with 25 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method naive_protect with 25 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method naive_protect with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method naive_protect with 5 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method naive_protect with 10 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method naive_protect with 15 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method naive_protect with 20 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method naive_protect with 25 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method cmia-o with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method naive_protect with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rl_fnim with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method hifm with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rf with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method gb with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method degree with 5 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method pagerank with 5 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method cmia-o with 5 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method biog with 5 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method rbf with 5 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method fair-cmia-o with 5 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method myopic_maximin with 5 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method protect with 5 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method naive_protect with 5 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method rl_fnim with 5 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method hifm with 5 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method rf with 5 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method gb with 5 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method degree with 10 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method pagerank with 10 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method cmia-o with 10 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method biog with 10 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method rbf with 10 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method fair-cmia-o with 10 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method myopic_maximin with 10 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method protect with 10 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method naive_protect with 10 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method rl_fnim with 10 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method hifm with 10 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method rf with 10 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method gb with 10 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method degree with 15 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method pagerank with 15 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method cmia-o with 15 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method biog with 15 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method rbf with 15 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method fair-cmia-o with 15 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method myopic_maximin with 15 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method protect with 15 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method naive_protect with 15 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method rl_fnim with 15 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method hifm with 15 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method rf with 15 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method gb with 15 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method degree with 20 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method pagerank with 20 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method cmia-o with 20 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method biog with 20 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method rbf with 20 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method fair-cmia-o with 20 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method myopic_maximin with 20 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method protect with 20 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method naive_protect with 20 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method rl_fnim with 20 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method hifm with 20 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method rf with 20 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method gb with 20 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method degree with 25 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method pagerank with 25 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method cmia-o with 25 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method biog with 25 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method rbf with 25 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method fair-cmia-o with 25 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method myopic_maximin with 25 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method protect with 25 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method naive_protect with 25 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method rl_fnim with 25 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method hifm with 25 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method rf with 25 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method gb with 25 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method rl_fnim with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method hifm with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rf with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method gb with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method degree with 5 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method pagerank with 5 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method cmia-o with 5 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method biog with 5 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method rbf with 5 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method fair-cmia-o with 5 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method myopic_maximin with 5 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method protect with 5 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method naive_protect with 5 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method rl_fnim with 5 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method hifm with 5 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method rf with 5 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method gb with 5 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method degree with 10 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method pagerank with 10 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method cmia-o with 10 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method biog with 10 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method rbf with 10 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method fair-cmia-o with 10 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method myopic_maximin with 10 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method protect with 10 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method naive_protect with 10 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method rl_fnim with 10 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method hifm with 10 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method rf with 10 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method gb with 10 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method degree with 15 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method pagerank with 15 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method cmia-o with 15 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method biog with 15 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method rbf with 15 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method fair-cmia-o with 15 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method myopic_maximin with 15 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method protect with 15 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method naive_protect with 15 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method rl_fnim with 15 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method hifm with 15 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method rf with 15 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method gb with 15 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method degree with 20 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method pagerank with 20 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method cmia-o with 20 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method biog with 20 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method rbf with 20 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method fair-cmia-o with 20 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method myopic_maximin with 20 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method protect with 20 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method naive_protect with 20 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method rl_fnim with 20 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method hifm with 20 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method rf with 20 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method gb with 20 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method degree with 25 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method pagerank with 25 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method cmia-o with 25 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method biog with 25 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method rbf with 25 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method fair-cmia-o with 25 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method myopic_maximin with 25 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method protect with 25 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method naive_protect with 25 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method rl_fnim with 25 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method hifm with 25 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method rf with 25 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method gb with 25 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method rl_fnim with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method hifm with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rf with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method gb with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rf with 5 seeds: [Errno 2] No such file or directory: '../outputs/twitter_combined_value_weight_random_neg_policy_0.25/pos_seeds_rf.txt'
+ERROR:root:Error encountered during method gb with 5 seeds: [Errno 2] No such file or directory: '../outputs/twitter_combined_value_weight_random_neg_policy_0.25/pos_seeds_gb.txt'
+ERROR:root:Error encountered during method rf with 10 seeds: [Errno 2] No such file or directory: '../outputs/twitter_combined_value_weight_random_neg_policy_0.25/pos_seeds_rf.txt'
+ERROR:root:Error encountered during method gb with 10 seeds: [Errno 2] No such file or directory: '../outputs/twitter_combined_value_weight_random_neg_policy_0.25/pos_seeds_gb.txt'
+ERROR:root:Error encountered during method rf with 15 seeds: [Errno 2] No such file or directory: '../outputs/twitter_combined_value_weight_random_neg_policy_0.25/pos_seeds_rf.txt'
+ERROR:root:Error encountered during method gb with 15 seeds: [Errno 2] No such file or directory: '../outputs/twitter_combined_value_weight_random_neg_policy_0.25/pos_seeds_gb.txt'
+ERROR:root:Error encountered during method cmia-o with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method naive_protect with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method cmia-o with 5 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method naive_protect with 5 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method cmia-o with 10 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method naive_protect with 10 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method cmia-o with 15 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method naive_protect with 15 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method cmia-o with 20 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method naive_protect with 20 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method cmia-o with 25 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method naive_protect with 25 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method cmia-o with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method naive_protect with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method cmia-o with 5 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method naive_protect with 5 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method cmia-o with 10 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method naive_protect with 10 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method cmia-o with 15 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method naive_protect with 15 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method cmia-o with 20 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method naive_protect with 20 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method cmia-o with 25 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method naive_protect with 25 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method cmia-o with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method naive_protect with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method cmia-o with 5 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method naive_protect with 5 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method cmia-o with 10 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method naive_protect with 10 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method cmia-o with 15 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method naive_protect with 15 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method cmia-o with 20 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method naive_protect with 20 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method cmia-o with 25 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method naive_protect with 25 seeds: index 1133 is out of bounds for axis 0 with size 1133
+ERROR:root:Error encountered during method degree with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method pagerank with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method cmia-o with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method biog with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rbf with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method fwrrs with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method fair-cmia-o with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method myopic_maximin with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method protect with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method naive_protect with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method degree with 5 seeds: [Errno 2] No such file or directory: '../outputs/HICHBA_10000_40000_0.9_0.9_0.9_el_value_weight_degree_neg_policy_0.1/pos_seeds_degree.txt'
+ERROR:root:Error encountered during method pagerank with 5 seeds: [Errno 2] No such file or directory: '../outputs/HICHBA_10000_40000_0.9_0.9_0.9_el_value_weight_degree_neg_policy_0.1/pos_seeds_pagerank.txt'
+ERROR:root:Error encountered during method cmia-o with 5 seeds: [Errno 2] No such file or directory: '../outputs/HICHBA_10000_40000_0.9_0.9_0.9_el_value_weight_degree_neg_policy_0.1/pos_seeds_cmia-o.txt'
+ERROR:root:Error encountered during method biog with 5 seeds: [Errno 2] No such file or directory: '../outputs/HICHBA_10000_40000_0.9_0.9_0.9_el_value_weight_degree_neg_policy_0.1/pos_seeds_biog.txt'
+ERROR:root:Error encountered during method rbf with 5 seeds: [Errno 2] No such file or directory: '../outputs/HICHBA_10000_40000_0.9_0.9_0.9_el_value_weight_degree_neg_policy_0.1/pos_seeds_rbf.txt'
+ERROR:root:Error encountered during method fwrrs with 5 seeds: [Errno 2] No such file or directory: '../outputs/HICHBA_10000_40000_0.9_0.9_0.9_el_value_weight_degree_neg_policy_0.1/pos_seeds_fwrrs.txt'
+ERROR:root:Error encountered during method fair-cmia-o with 5 seeds: [Errno 2] No such file or directory: '../outputs/HICHBA_10000_40000_0.9_0.9_0.9_el_value_weight_degree_neg_policy_0.1/pos_seeds_fair-cmia-o.txt'
+ERROR:root:Error encountered during method myopic_maximin with 5 seeds: [Errno 2] No such file or directory: '../outputs/HICHBA_10000_40000_0.9_0.9_0.9_el_value_weight_degree_neg_policy_0.1/pos_seeds_myopic_maximin.txt'
+ERROR:root:Error encountered during method protect with 5 seeds: [Errno 2] No such file or directory: '../outputs/HICHBA_10000_40000_0.9_0.9_0.9_el_value_weight_degree_neg_policy_0.1/pos_seeds_protect.txt'
+ERROR:root:Error encountered during method naive_protect with 5 seeds: [Errno 2] No such file or directory: '../outputs/HICHBA_10000_40000_0.9_0.9_0.9_el_value_weight_degree_neg_policy_0.1/pos_seeds_naive_protect.txt'
+ERROR:root:Error encountered during method degree with 10 seeds: [Errno 2] No such file or directory: '../outputs/HICHBA_10000_40000_0.9_0.9_0.9_el_value_weight_degree_neg_policy_0.1/pos_seeds_degree.txt'
+ERROR:root:Error encountered during method pagerank with 10 seeds: [Errno 2] No such file or directory: '../outputs/HICHBA_10000_40000_0.9_0.9_0.9_el_value_weight_degree_neg_policy_0.1/pos_seeds_pagerank.txt'
+ERROR:root:Error encountered during method cmia-o with 10 seeds: [Errno 2] No such file or directory: '../outputs/HICHBA_10000_40000_0.9_0.9_0.9_el_value_weight_degree_neg_policy_0.1/pos_seeds_cmia-o.txt'
+ERROR:root:Error encountered during method biog with 10 seeds: [Errno 2] No such file or directory: '../outputs/HICHBA_10000_40000_0.9_0.9_0.9_el_value_weight_degree_neg_policy_0.1/pos_seeds_biog.txt'
+ERROR:root:Error encountered during method rbf with 10 seeds: [Errno 2] No such file or directory: '../outputs/HICHBA_10000_40000_0.9_0.9_0.9_el_value_weight_degree_neg_policy_0.1/pos_seeds_rbf.txt'
+ERROR:root:Error encountered during method fwrrs with 10 seeds: [Errno 2] No such file or directory: '../outputs/HICHBA_10000_40000_0.9_0.9_0.9_el_value_weight_degree_neg_policy_0.1/pos_seeds_fwrrs.txt'
+ERROR:root:Error encountered during method fair-cmia-o with 10 seeds: [Errno 2] No such file or directory: '../outputs/HICHBA_10000_40000_0.9_0.9_0.9_el_value_weight_degree_neg_policy_0.1/pos_seeds_fair-cmia-o.txt'
+ERROR:root:Error encountered during method myopic_maximin with 10 seeds: [Errno 2] No such file or directory: '../outputs/HICHBA_10000_40000_0.9_0.9_0.9_el_value_weight_degree_neg_policy_0.1/pos_seeds_myopic_maximin.txt'
+ERROR:root:Error encountered during method protect with 10 seeds: [Errno 2] No such file or directory: '../outputs/HICHBA_10000_40000_0.9_0.9_0.9_el_value_weight_degree_neg_policy_0.1/pos_seeds_protect.txt'
+ERROR:root:Error encountered during method naive_protect with 10 seeds: [Errno 2] No such file or directory: '../outputs/HICHBA_10000_40000_0.9_0.9_0.9_el_value_weight_degree_neg_policy_0.1/pos_seeds_naive_protect.txt'
+ERROR:root:Error encountered during method degree with 15 seeds: [Errno 2] No such file or directory: '../outputs/HICHBA_10000_40000_0.9_0.9_0.9_el_value_weight_degree_neg_policy_0.1/pos_seeds_degree.txt'
+ERROR:root:Error encountered during method pagerank with 15 seeds: [Errno 2] No such file or directory: '../outputs/HICHBA_10000_40000_0.9_0.9_0.9_el_value_weight_degree_neg_policy_0.1/pos_seeds_pagerank.txt'
+ERROR:root:Error encountered during method cmia-o with 15 seeds: [Errno 2] No such file or directory: '../outputs/HICHBA_10000_40000_0.9_0.9_0.9_el_value_weight_degree_neg_policy_0.1/pos_seeds_cmia-o.txt'
+ERROR:root:Error encountered during method biog with 15 seeds: [Errno 2] No such file or directory: '../outputs/HICHBA_10000_40000_0.9_0.9_0.9_el_value_weight_degree_neg_policy_0.1/pos_seeds_biog.txt'
+ERROR:root:Error encountered during method rbf with 15 seeds: [Errno 2] No such file or directory: '../outputs/HICHBA_10000_40000_0.9_0.9_0.9_el_value_weight_degree_neg_policy_0.1/pos_seeds_rbf.txt'
+ERROR:root:Error encountered during method fwrrs with 15 seeds: [Errno 2] No such file or directory: '../outputs/HICHBA_10000_40000_0.9_0.9_0.9_el_value_weight_degree_neg_policy_0.1/pos_seeds_fwrrs.txt'
+ERROR:root:Error encountered during method fair-cmia-o with 15 seeds: [Errno 2] No such file or directory: '../outputs/HICHBA_10000_40000_0.9_0.9_0.9_el_value_weight_degree_neg_policy_0.1/pos_seeds_fair-cmia-o.txt'
+ERROR:root:Error encountered during method myopic_maximin with 15 seeds: [Errno 2] No such file or directory: '../outputs/HICHBA_10000_40000_0.9_0.9_0.9_el_value_weight_degree_neg_policy_0.1/pos_seeds_myopic_maximin.txt'
+ERROR:root:Error encountered during method protect with 15 seeds: [Errno 2] No such file or directory: '../outputs/HICHBA_10000_40000_0.9_0.9_0.9_el_value_weight_degree_neg_policy_0.1/pos_seeds_protect.txt'
+ERROR:root:Error encountered during method naive_protect with 15 seeds: [Errno 2] No such file or directory: '../outputs/HICHBA_10000_40000_0.9_0.9_0.9_el_value_weight_degree_neg_policy_0.1/pos_seeds_naive_protect.txt'
+ERROR:root:Error encountered during method degree with 20 seeds: [Errno 2] No such file or directory: '../outputs/HICHBA_10000_40000_0.9_0.9_0.9_el_value_weight_degree_neg_policy_0.1/pos_seeds_degree.txt'
+ERROR:root:Error encountered during method pagerank with 20 seeds: [Errno 2] No such file or directory: '../outputs/HICHBA_10000_40000_0.9_0.9_0.9_el_value_weight_degree_neg_policy_0.1/pos_seeds_pagerank.txt'
+ERROR:root:Error encountered during method cmia-o with 20 seeds: [Errno 2] No such file or directory: '../outputs/HICHBA_10000_40000_0.9_0.9_0.9_el_value_weight_degree_neg_policy_0.1/pos_seeds_cmia-o.txt'
+ERROR:root:Error encountered during method biog with 20 seeds: [Errno 2] No such file or directory: '../outputs/HICHBA_10000_40000_0.9_0.9_0.9_el_value_weight_degree_neg_policy_0.1/pos_seeds_biog.txt'
+ERROR:root:Error encountered during method rbf with 20 seeds: [Errno 2] No such file or directory: '../outputs/HICHBA_10000_40000_0.9_0.9_0.9_el_value_weight_degree_neg_policy_0.1/pos_seeds_rbf.txt'
+ERROR:root:Error encountered during method fwrrs with 20 seeds: [Errno 2] No such file or directory: '../outputs/HICHBA_10000_40000_0.9_0.9_0.9_el_value_weight_degree_neg_policy_0.1/pos_seeds_fwrrs.txt'
+ERROR:root:Error encountered during method fair-cmia-o with 20 seeds: [Errno 2] No such file or directory: '../outputs/HICHBA_10000_40000_0.9_0.9_0.9_el_value_weight_degree_neg_policy_0.1/pos_seeds_fair-cmia-o.txt'
+ERROR:root:Error encountered during method myopic_maximin with 20 seeds: [Errno 2] No such file or directory: '../outputs/HICHBA_10000_40000_0.9_0.9_0.9_el_value_weight_degree_neg_policy_0.1/pos_seeds_myopic_maximin.txt'
+ERROR:root:Error encountered during method protect with 20 seeds: [Errno 2] No such file or directory: '../outputs/HICHBA_10000_40000_0.9_0.9_0.9_el_value_weight_degree_neg_policy_0.1/pos_seeds_protect.txt'
+ERROR:root:Error encountered during method naive_protect with 20 seeds: [Errno 2] No such file or directory: '../outputs/HICHBA_10000_40000_0.9_0.9_0.9_el_value_weight_degree_neg_policy_0.1/pos_seeds_naive_protect.txt'
+ERROR:root:Error encountered during method degree with 25 seeds: [Errno 2] No such file or directory: '../outputs/HICHBA_10000_40000_0.9_0.9_0.9_el_value_weight_degree_neg_policy_0.1/pos_seeds_degree.txt'
+ERROR:root:Error encountered during method pagerank with 25 seeds: [Errno 2] No such file or directory: '../outputs/HICHBA_10000_40000_0.9_0.9_0.9_el_value_weight_degree_neg_policy_0.1/pos_seeds_pagerank.txt'
+ERROR:root:Error encountered during method cmia-o with 25 seeds: [Errno 2] No such file or directory: '../outputs/HICHBA_10000_40000_0.9_0.9_0.9_el_value_weight_degree_neg_policy_0.1/pos_seeds_cmia-o.txt'
+ERROR:root:Error encountered during method biog with 25 seeds: [Errno 2] No such file or directory: '../outputs/HICHBA_10000_40000_0.9_0.9_0.9_el_value_weight_degree_neg_policy_0.1/pos_seeds_biog.txt'
+ERROR:root:Error encountered during method rbf with 25 seeds: [Errno 2] No such file or directory: '../outputs/HICHBA_10000_40000_0.9_0.9_0.9_el_value_weight_degree_neg_policy_0.1/pos_seeds_rbf.txt'
+ERROR:root:Error encountered during method fwrrs with 25 seeds: [Errno 2] No such file or directory: '../outputs/HICHBA_10000_40000_0.9_0.9_0.9_el_value_weight_degree_neg_policy_0.1/pos_seeds_fwrrs.txt'
+ERROR:root:Error encountered during method fair-cmia-o with 25 seeds: [Errno 2] No such file or directory: '../outputs/HICHBA_10000_40000_0.9_0.9_0.9_el_value_weight_degree_neg_policy_0.1/pos_seeds_fair-cmia-o.txt'
+ERROR:root:Error encountered during method myopic_maximin with 25 seeds: [Errno 2] No such file or directory: '../outputs/HICHBA_10000_40000_0.9_0.9_0.9_el_value_weight_degree_neg_policy_0.1/pos_seeds_myopic_maximin.txt'
+ERROR:root:Error encountered during method protect with 25 seeds: [Errno 2] No such file or directory: '../outputs/HICHBA_10000_40000_0.9_0.9_0.9_el_value_weight_degree_neg_policy_0.1/pos_seeds_protect.txt'
+ERROR:root:Error encountered during method naive_protect with 25 seeds: [Errno 2] No such file or directory: '../outputs/HICHBA_10000_40000_0.9_0.9_0.9_el_value_weight_degree_neg_policy_0.1/pos_seeds_naive_protect.txt'
+ERROR:root:Error encountered during method degree with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method pagerank with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method cmia-o with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method biog with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rbf with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method fwrrs with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method fair-cmia-o with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method myopic_maximin with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method protect with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method naive_protect with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method degree with 5 seeds: [Errno 2] No such file or directory: '../outputs/HICHBA_10000_40000_0.9_0.9_0.9_el_value_weight_degree_neg_policy_0.1/pos_seeds_degree.txt'
+ERROR:root:Error encountered during method pagerank with 5 seeds: [Errno 2] No such file or directory: '../outputs/HICHBA_10000_40000_0.9_0.9_0.9_el_value_weight_degree_neg_policy_0.1/pos_seeds_pagerank.txt'
+ERROR:root:Error encountered during method cmia-o with 5 seeds: [Errno 2] No such file or directory: '../outputs/HICHBA_10000_40000_0.9_0.9_0.9_el_value_weight_degree_neg_policy_0.1/pos_seeds_cmia-o.txt'
+ERROR:root:Error encountered during method biog with 5 seeds: [Errno 2] No such file or directory: '../outputs/HICHBA_10000_40000_0.9_0.9_0.9_el_value_weight_degree_neg_policy_0.1/pos_seeds_biog.txt'
+ERROR:root:Error encountered during method rbf with 5 seeds: [Errno 2] No such file or directory: '../outputs/HICHBA_10000_40000_0.9_0.9_0.9_el_value_weight_degree_neg_policy_0.1/pos_seeds_rbf.txt'
+ERROR:root:Error encountered during method fwrrs with 5 seeds: [Errno 2] No such file or directory: '../outputs/HICHBA_10000_40000_0.9_0.9_0.9_el_value_weight_degree_neg_policy_0.1/pos_seeds_fwrrs.txt'
+ERROR:root:Error encountered during method fair-cmia-o with 5 seeds: [Errno 2] No such file or directory: '../outputs/HICHBA_10000_40000_0.9_0.9_0.9_el_value_weight_degree_neg_policy_0.1/pos_seeds_fair-cmia-o.txt'
+ERROR:root:Error encountered during method myopic_maximin with 5 seeds: [Errno 2] No such file or directory: '../outputs/HICHBA_10000_40000_0.9_0.9_0.9_el_value_weight_degree_neg_policy_0.1/pos_seeds_myopic_maximin.txt'
+ERROR:root:Error encountered during method protect with 5 seeds: [Errno 2] No such file or directory: '../outputs/HICHBA_10000_40000_0.9_0.9_0.9_el_value_weight_degree_neg_policy_0.1/pos_seeds_protect.txt'
+ERROR:root:Error encountered during method naive_protect with 5 seeds: [Errno 2] No such file or directory: '../outputs/HICHBA_10000_40000_0.9_0.9_0.9_el_value_weight_degree_neg_policy_0.1/pos_seeds_naive_protect.txt'
+ERROR:root:Error encountered during method degree with 10 seeds: [Errno 2] No such file or directory: '../outputs/HICHBA_10000_40000_0.9_0.9_0.9_el_value_weight_degree_neg_policy_0.1/pos_seeds_degree.txt'
+ERROR:root:Error encountered during method pagerank with 10 seeds: [Errno 2] No such file or directory: '../outputs/HICHBA_10000_40000_0.9_0.9_0.9_el_value_weight_degree_neg_policy_0.1/pos_seeds_pagerank.txt'
+ERROR:root:Error encountered during method cmia-o with 10 seeds: [Errno 2] No such file or directory: '../outputs/HICHBA_10000_40000_0.9_0.9_0.9_el_value_weight_degree_neg_policy_0.1/pos_seeds_cmia-o.txt'
+ERROR:root:Error encountered during method biog with 10 seeds: [Errno 2] No such file or directory: '../outputs/HICHBA_10000_40000_0.9_0.9_0.9_el_value_weight_degree_neg_policy_0.1/pos_seeds_biog.txt'
+ERROR:root:Error encountered during method rbf with 10 seeds: [Errno 2] No such file or directory: '../outputs/HICHBA_10000_40000_0.9_0.9_0.9_el_value_weight_degree_neg_policy_0.1/pos_seeds_rbf.txt'
+ERROR:root:Error encountered during method fwrrs with 10 seeds: [Errno 2] No such file or directory: '../outputs/HICHBA_10000_40000_0.9_0.9_0.9_el_value_weight_degree_neg_policy_0.1/pos_seeds_fwrrs.txt'
+ERROR:root:Error encountered during method fair-cmia-o with 10 seeds: [Errno 2] No such file or directory: '../outputs/HICHBA_10000_40000_0.9_0.9_0.9_el_value_weight_degree_neg_policy_0.1/pos_seeds_fair-cmia-o.txt'
+ERROR:root:Error encountered during method myopic_maximin with 10 seeds: [Errno 2] No such file or directory: '../outputs/HICHBA_10000_40000_0.9_0.9_0.9_el_value_weight_degree_neg_policy_0.1/pos_seeds_myopic_maximin.txt'
+ERROR:root:Error encountered during method protect with 10 seeds: [Errno 2] No such file or directory: '../outputs/HICHBA_10000_40000_0.9_0.9_0.9_el_value_weight_degree_neg_policy_0.1/pos_seeds_protect.txt'
+ERROR:root:Error encountered during method naive_protect with 10 seeds: [Errno 2] No such file or directory: '../outputs/HICHBA_10000_40000_0.9_0.9_0.9_el_value_weight_degree_neg_policy_0.1/pos_seeds_naive_protect.txt'
+ERROR:root:Error encountered during method degree with 15 seeds: [Errno 2] No such file or directory: '../outputs/HICHBA_10000_40000_0.9_0.9_0.9_el_value_weight_degree_neg_policy_0.1/pos_seeds_degree.txt'
+ERROR:root:Error encountered during method pagerank with 15 seeds: [Errno 2] No such file or directory: '../outputs/HICHBA_10000_40000_0.9_0.9_0.9_el_value_weight_degree_neg_policy_0.1/pos_seeds_pagerank.txt'
+ERROR:root:Error encountered during method cmia-o with 15 seeds: [Errno 2] No such file or directory: '../outputs/HICHBA_10000_40000_0.9_0.9_0.9_el_value_weight_degree_neg_policy_0.1/pos_seeds_cmia-o.txt'
+ERROR:root:Error encountered during method biog with 15 seeds: [Errno 2] No such file or directory: '../outputs/HICHBA_10000_40000_0.9_0.9_0.9_el_value_weight_degree_neg_policy_0.1/pos_seeds_biog.txt'
+ERROR:root:Error encountered during method rbf with 15 seeds: [Errno 2] No such file or directory: '../outputs/HICHBA_10000_40000_0.9_0.9_0.9_el_value_weight_degree_neg_policy_0.1/pos_seeds_rbf.txt'
+ERROR:root:Error encountered during method fwrrs with 15 seeds: [Errno 2] No such file or directory: '../outputs/HICHBA_10000_40000_0.9_0.9_0.9_el_value_weight_degree_neg_policy_0.1/pos_seeds_fwrrs.txt'
+ERROR:root:Error encountered during method fair-cmia-o with 15 seeds: [Errno 2] No such file or directory: '../outputs/HICHBA_10000_40000_0.9_0.9_0.9_el_value_weight_degree_neg_policy_0.1/pos_seeds_fair-cmia-o.txt'
+ERROR:root:Error encountered during method myopic_maximin with 15 seeds: [Errno 2] No such file or directory: '../outputs/HICHBA_10000_40000_0.9_0.9_0.9_el_value_weight_degree_neg_policy_0.1/pos_seeds_myopic_maximin.txt'
+ERROR:root:Error encountered during method protect with 15 seeds: [Errno 2] No such file or directory: '../outputs/HICHBA_10000_40000_0.9_0.9_0.9_el_value_weight_degree_neg_policy_0.1/pos_seeds_protect.txt'
+ERROR:root:Error encountered during method naive_protect with 15 seeds: [Errno 2] No such file or directory: '../outputs/HICHBA_10000_40000_0.9_0.9_0.9_el_value_weight_degree_neg_policy_0.1/pos_seeds_naive_protect.txt'
+ERROR:root:Error encountered during method degree with 20 seeds: [Errno 2] No such file or directory: '../outputs/HICHBA_10000_40000_0.9_0.9_0.9_el_value_weight_degree_neg_policy_0.1/pos_seeds_degree.txt'
+ERROR:root:Error encountered during method pagerank with 20 seeds: [Errno 2] No such file or directory: '../outputs/HICHBA_10000_40000_0.9_0.9_0.9_el_value_weight_degree_neg_policy_0.1/pos_seeds_pagerank.txt'
+ERROR:root:Error encountered during method cmia-o with 20 seeds: [Errno 2] No such file or directory: '../outputs/HICHBA_10000_40000_0.9_0.9_0.9_el_value_weight_degree_neg_policy_0.1/pos_seeds_cmia-o.txt'
+ERROR:root:Error encountered during method biog with 20 seeds: [Errno 2] No such file or directory: '../outputs/HICHBA_10000_40000_0.9_0.9_0.9_el_value_weight_degree_neg_policy_0.1/pos_seeds_biog.txt'
+ERROR:root:Error encountered during method rbf with 20 seeds: [Errno 2] No such file or directory: '../outputs/HICHBA_10000_40000_0.9_0.9_0.9_el_value_weight_degree_neg_policy_0.1/pos_seeds_rbf.txt'
+ERROR:root:Error encountered during method fwrrs with 20 seeds: [Errno 2] No such file or directory: '../outputs/HICHBA_10000_40000_0.9_0.9_0.9_el_value_weight_degree_neg_policy_0.1/pos_seeds_fwrrs.txt'
+ERROR:root:Error encountered during method fair-cmia-o with 20 seeds: [Errno 2] No such file or directory: '../outputs/HICHBA_10000_40000_0.9_0.9_0.9_el_value_weight_degree_neg_policy_0.1/pos_seeds_fair-cmia-o.txt'
+ERROR:root:Error encountered during method myopic_maximin with 20 seeds: [Errno 2] No such file or directory: '../outputs/HICHBA_10000_40000_0.9_0.9_0.9_el_value_weight_degree_neg_policy_0.1/pos_seeds_myopic_maximin.txt'
+ERROR:root:Error encountered during method protect with 20 seeds: [Errno 2] No such file or directory: '../outputs/HICHBA_10000_40000_0.9_0.9_0.9_el_value_weight_degree_neg_policy_0.1/pos_seeds_protect.txt'
+ERROR:root:Error encountered during method naive_protect with 20 seeds: [Errno 2] No such file or directory: '../outputs/HICHBA_10000_40000_0.9_0.9_0.9_el_value_weight_degree_neg_policy_0.1/pos_seeds_naive_protect.txt'
+ERROR:root:Error encountered during method degree with 25 seeds: [Errno 2] No such file or directory: '../outputs/HICHBA_10000_40000_0.9_0.9_0.9_el_value_weight_degree_neg_policy_0.1/pos_seeds_degree.txt'
+ERROR:root:Error encountered during method pagerank with 25 seeds: [Errno 2] No such file or directory: '../outputs/HICHBA_10000_40000_0.9_0.9_0.9_el_value_weight_degree_neg_policy_0.1/pos_seeds_pagerank.txt'
+ERROR:root:Error encountered during method cmia-o with 25 seeds: [Errno 2] No such file or directory: '../outputs/HICHBA_10000_40000_0.9_0.9_0.9_el_value_weight_degree_neg_policy_0.1/pos_seeds_cmia-o.txt'
+ERROR:root:Error encountered during method biog with 25 seeds: [Errno 2] No such file or directory: '../outputs/HICHBA_10000_40000_0.9_0.9_0.9_el_value_weight_degree_neg_policy_0.1/pos_seeds_biog.txt'
+ERROR:root:Error encountered during method rbf with 25 seeds: [Errno 2] No such file or directory: '../outputs/HICHBA_10000_40000_0.9_0.9_0.9_el_value_weight_degree_neg_policy_0.1/pos_seeds_rbf.txt'
+ERROR:root:Error encountered during method fwrrs with 25 seeds: [Errno 2] No such file or directory: '../outputs/HICHBA_10000_40000_0.9_0.9_0.9_el_value_weight_degree_neg_policy_0.1/pos_seeds_fwrrs.txt'
+ERROR:root:Error encountered during method fair-cmia-o with 25 seeds: [Errno 2] No such file or directory: '../outputs/HICHBA_10000_40000_0.9_0.9_0.9_el_value_weight_degree_neg_policy_0.1/pos_seeds_fair-cmia-o.txt'
+ERROR:root:Error encountered during method myopic_maximin with 25 seeds: [Errno 2] No such file or directory: '../outputs/HICHBA_10000_40000_0.9_0.9_0.9_el_value_weight_degree_neg_policy_0.1/pos_seeds_myopic_maximin.txt'
+ERROR:root:Error encountered during method protect with 25 seeds: [Errno 2] No such file or directory: '../outputs/HICHBA_10000_40000_0.9_0.9_0.9_el_value_weight_degree_neg_policy_0.1/pos_seeds_protect.txt'
+ERROR:root:Error encountered during method naive_protect with 25 seeds: [Errno 2] No such file or directory: '../outputs/HICHBA_10000_40000_0.9_0.9_0.9_el_value_weight_degree_neg_policy_0.1/pos_seeds_naive_protect.txt'
+ERROR:root:Error encountered during method cmia-o with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method naive_protect with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method cmia-o with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method naive_protect with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method cmia-o with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method naive_protect with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method fwrrs with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rl_fnim with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method hifm with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rf with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method gb with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rbf with 5 seeds: [Errno 2] No such file or directory: '../outputs/HICHBA_10000_200000_0.9_0.9_0.9_el_value_weight_degree_neg_policy_0.1/pos_seeds_rbf.txt'
+ERROR:root:Error encountered during method fwrrs with 5 seeds: [Errno 2] No such file or directory: '../outputs/HICHBA_10000_200000_0.9_0.9_0.9_el_value_weight_degree_neg_policy_0.1/pos_seeds_fwrrs.txt'
+ERROR:root:Error encountered during method rf with 5 seeds: [Errno 2] No such file or directory: '../outputs/HICHBA_10000_200000_0.9_0.9_0.9_el_value_weight_degree_neg_policy_0.1/pos_seeds_rf.txt'
+ERROR:root:Error encountered during method gb with 5 seeds: [Errno 2] No such file or directory: '../outputs/HICHBA_10000_200000_0.9_0.9_0.9_el_value_weight_degree_neg_policy_0.1/pos_seeds_gb.txt'
+ERROR:root:Error encountered during method rbf with 10 seeds: [Errno 2] No such file or directory: '../outputs/HICHBA_10000_200000_0.9_0.9_0.9_el_value_weight_degree_neg_policy_0.1/pos_seeds_rbf.txt'
+ERROR:root:Error encountered during method fwrrs with 10 seeds: [Errno 2] No such file or directory: '../outputs/HICHBA_10000_200000_0.9_0.9_0.9_el_value_weight_degree_neg_policy_0.1/pos_seeds_fwrrs.txt'
+ERROR:root:Error encountered during method fwrrs with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rl_fnim with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method hifm with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rf with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method gb with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rbf with 5 seeds: [Errno 2] No such file or directory: '../outputs/HICHBA_10000_40000_0.9_0.9_0.9_el_value_weight_degree_neg_policy_0.1/pos_seeds_rbf.txt'
+ERROR:root:Error encountered during method fwrrs with 5 seeds: [Errno 2] No such file or directory: '../outputs/HICHBA_10000_40000_0.9_0.9_0.9_el_value_weight_degree_neg_policy_0.1/pos_seeds_fwrrs.txt'
+ERROR:root:Error encountered during method rbf with 10 seeds: [Errno 2] No such file or directory: '../outputs/HICHBA_10000_40000_0.9_0.9_0.9_el_value_weight_degree_neg_policy_0.1/pos_seeds_rbf.txt'
+ERROR:root:Error encountered during method fwrrs with 10 seeds: [Errno 2] No such file or directory: '../outputs/HICHBA_10000_40000_0.9_0.9_0.9_el_value_weight_degree_neg_policy_0.1/pos_seeds_fwrrs.txt'
+ERROR:root:Error encountered during method rbf with 15 seeds: [Errno 2] No such file or directory: '../outputs/HICHBA_10000_40000_0.9_0.9_0.9_el_value_weight_degree_neg_policy_0.1/pos_seeds_rbf.txt'
+ERROR:root:Error encountered during method fwrrs with 15 seeds: [Errno 2] No such file or directory: '../outputs/HICHBA_10000_40000_0.9_0.9_0.9_el_value_weight_degree_neg_policy_0.1/pos_seeds_fwrrs.txt'
+ERROR:root:Error encountered during method rbf with 20 seeds: [Errno 2] No such file or directory: '../outputs/HICHBA_10000_40000_0.9_0.9_0.9_el_value_weight_degree_neg_policy_0.1/pos_seeds_rbf.txt'
+ERROR:root:Error encountered during method fwrrs with 20 seeds: [Errno 2] No such file or directory: '../outputs/HICHBA_10000_40000_0.9_0.9_0.9_el_value_weight_degree_neg_policy_0.1/pos_seeds_fwrrs.txt'
+ERROR:root:Error encountered during method rbf with 25 seeds: [Errno 2] No such file or directory: '../outputs/HICHBA_10000_40000_0.9_0.9_0.9_el_value_weight_degree_neg_policy_0.1/pos_seeds_rbf.txt'
+ERROR:root:Error encountered during method fwrrs with 25 seeds: [Errno 2] No such file or directory: '../outputs/HICHBA_10000_40000_0.9_0.9_0.9_el_value_weight_degree_neg_policy_0.1/pos_seeds_fwrrs.txt'
+ERROR:root:Error encountered during method cmia-o with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method naive_protect with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method fwrrs with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rl_fnim with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method hifm with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rf with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method gb with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method fwrrs with 5 seeds: [Errno 2] No such file or directory: '../outputs/HICHBA_10000_40000_0.9_0.9_0.9_el_value_weight_degree_neg_policy_0.1/pos_seeds_fwrrs.txt'
+ERROR:root:Error encountered during method fwrrs with 10 seeds: [Errno 2] No such file or directory: '../outputs/HICHBA_10000_40000_0.9_0.9_0.9_el_value_weight_degree_neg_policy_0.1/pos_seeds_fwrrs.txt'
+ERROR:root:Error encountered during method fwrrs with 15 seeds: [Errno 2] No such file or directory: '../outputs/HICHBA_10000_40000_0.9_0.9_0.9_el_value_weight_degree_neg_policy_0.1/pos_seeds_fwrrs.txt'
+ERROR:root:Error encountered during method fwrrs with 20 seeds: [Errno 2] No such file or directory: '../outputs/HICHBA_10000_40000_0.9_0.9_0.9_el_value_weight_degree_neg_policy_0.1/pos_seeds_fwrrs.txt'
+ERROR:root:Error encountered during method fwrrs with 25 seeds: [Errno 2] No such file or directory: '../outputs/HICHBA_10000_40000_0.9_0.9_0.9_el_value_weight_degree_neg_policy_0.1/pos_seeds_fwrrs.txt'
+ERROR:root:Error encountered during method fwrrs with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rl_fnim with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method hifm with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rf with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method gb with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method fwrrs with 5 seeds: [Errno 2] No such file or directory: '../outputs/HICHBA_10000_40000_0.9_0.9_0.9_el_value_weight_degree_neg_policy_0.1/pos_seeds_fwrrs.txt'
+ERROR:root:Error encountered during method fwrrs with 10 seeds: [Errno 2] No such file or directory: '../outputs/HICHBA_10000_40000_0.9_0.9_0.9_el_value_weight_degree_neg_policy_0.1/pos_seeds_fwrrs.txt'
+ERROR:root:Error encountered during method fwrrs with 15 seeds: [Errno 2] No such file or directory: '../outputs/HICHBA_10000_40000_0.9_0.9_0.9_el_value_weight_degree_neg_policy_0.1/pos_seeds_fwrrs.txt'
+ERROR:root:Error encountered during method fwrrs with 20 seeds: [Errno 2] No such file or directory: '../outputs/HICHBA_10000_40000_0.9_0.9_0.9_el_value_weight_degree_neg_policy_0.1/pos_seeds_fwrrs.txt'
+ERROR:root:Error encountered during method fwrrs with 25 seeds: [Errno 2] No such file or directory: '../outputs/HICHBA_10000_40000_0.9_0.9_0.9_el_value_weight_degree_neg_policy_0.1/pos_seeds_fwrrs.txt'
+ERROR:root:Error encountered during method fwrrs with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rl_fnim with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method hifm with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rf with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method gb with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method fwrrs with 5 seeds: [Errno 2] No such file or directory: '../outputs/HICHBA_10000_40000_0.9_0.9_0.9_el_value_weight_degree_neg_policy_0.1/pos_seeds_fwrrs.txt'
+ERROR:root:Error encountered during method fwrrs with 10 seeds: [Errno 2] No such file or directory: '../outputs/HICHBA_10000_40000_0.9_0.9_0.9_el_value_weight_degree_neg_policy_0.1/pos_seeds_fwrrs.txt'
+ERROR:root:Error encountered during method fwrrs with 15 seeds: [Errno 2] No such file or directory: '../outputs/HICHBA_10000_40000_0.9_0.9_0.9_el_value_weight_degree_neg_policy_0.1/pos_seeds_fwrrs.txt'
+ERROR:root:Error encountered during method fwrrs with 20 seeds: [Errno 2] No such file or directory: '../outputs/HICHBA_10000_40000_0.9_0.9_0.9_el_value_weight_degree_neg_policy_0.1/pos_seeds_fwrrs.txt'
+ERROR:root:Error encountered during method fwrrs with 25 seeds: [Errno 2] No such file or directory: '../outputs/HICHBA_10000_40000_0.9_0.9_0.9_el_value_weight_degree_neg_policy_0.1/pos_seeds_fwrrs.txt'
+ERROR:root:Error encountered during method fwrrs with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rl_fnim with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method hifm with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rf with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method gb with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method fwrrs with 5 seeds: [Errno 2] No such file or directory: '../outputs/HICHBA_10000_40000_0.9_0.9_0.9_el_value_weight_degree_neg_policy_0.1/pos_seeds_fwrrs.txt'
+ERROR:root:Error encountered during method fwrrs with 10 seeds: [Errno 2] No such file or directory: '../outputs/HICHBA_10000_40000_0.9_0.9_0.9_el_value_weight_degree_neg_policy_0.1/pos_seeds_fwrrs.txt'
+ERROR:root:Error encountered during method fwrrs with 15 seeds: [Errno 2] No such file or directory: '../outputs/HICHBA_10000_40000_0.9_0.9_0.9_el_value_weight_degree_neg_policy_0.1/pos_seeds_fwrrs.txt'
+ERROR:root:Error encountered during method fwrrs with 20 seeds: [Errno 2] No such file or directory: '../outputs/HICHBA_10000_40000_0.9_0.9_0.9_el_value_weight_degree_neg_policy_0.1/pos_seeds_fwrrs.txt'
+ERROR:root:Error encountered during method fwrrs with 25 seeds: [Errno 2] No such file or directory: '../outputs/HICHBA_10000_40000_0.9_0.9_0.9_el_value_weight_degree_neg_policy_0.1/pos_seeds_fwrrs.txt'
+ERROR:root:Error encountered during method fwrrs with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rl_fnim with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method hifm with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rf with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method gb with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method fwrrs with 5 seeds: [Errno 2] No such file or directory: '../outputs/HICHBA_10000_40000_0.9_0.9_0.9_el_value_weight_degree_neg_policy_0.1/pos_seeds_fwrrs.txt'
+ERROR:root:Error encountered during method fwrrs with 10 seeds: [Errno 2] No such file or directory: '../outputs/HICHBA_10000_40000_0.9_0.9_0.9_el_value_weight_degree_neg_policy_0.1/pos_seeds_fwrrs.txt'
+ERROR:root:Error encountered during method fwrrs with 15 seeds: [Errno 2] No such file or directory: '../outputs/HICHBA_10000_40000_0.9_0.9_0.9_el_value_weight_degree_neg_policy_0.1/pos_seeds_fwrrs.txt'
+ERROR:root:Error encountered during method fwrrs with 20 seeds: [Errno 2] No such file or directory: '../outputs/HICHBA_10000_40000_0.9_0.9_0.9_el_value_weight_degree_neg_policy_0.1/pos_seeds_fwrrs.txt'
+ERROR:root:Error encountered during method fwrrs with 25 seeds: [Errno 2] No such file or directory: '../outputs/HICHBA_10000_40000_0.9_0.9_0.9_el_value_weight_degree_neg_policy_0.1/pos_seeds_fwrrs.txt'
+ERROR:root:Error encountered during method fwrrs with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rl_fnim with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method hifm with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rf with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method gb with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method fwrrs with 5 seeds: [Errno 2] No such file or directory: '../outputs/HICHBA_10000_40000_0.9_0.9_0.9_el_value_weight_degree_neg_policy_0.1/pos_seeds_fwrrs.txt'
+ERROR:root:Error encountered during method fwrrs with 10 seeds: [Errno 2] No such file or directory: '../outputs/HICHBA_10000_40000_0.9_0.9_0.9_el_value_weight_degree_neg_policy_0.1/pos_seeds_fwrrs.txt'
+ERROR:root:Error encountered during method fwrrs with 15 seeds: [Errno 2] No such file or directory: '../outputs/HICHBA_10000_40000_0.9_0.9_0.9_el_value_weight_degree_neg_policy_0.1/pos_seeds_fwrrs.txt'
+ERROR:root:Error encountered during method fwrrs with 20 seeds: [Errno 2] No such file or directory: '../outputs/HICHBA_10000_40000_0.9_0.9_0.9_el_value_weight_degree_neg_policy_0.1/pos_seeds_fwrrs.txt'
+ERROR:root:Error encountered during method fwrrs with 25 seeds: [Errno 2] No such file or directory: '../outputs/HICHBA_10000_40000_0.9_0.9_0.9_el_value_weight_degree_neg_policy_0.1/pos_seeds_fwrrs.txt'
+ERROR:root:Error encountered during method fwrrs with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rl_fnim with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method hifm with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rf with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method gb with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method fwrrs with 5 seeds: [Errno 2] No such file or directory: '../outputs/HICHBA_10000_40000_0.9_0.9_0.9_el_value_weight_degree_neg_policy_0.1/pos_seeds_fwrrs.txt'
+ERROR:root:Error encountered during method fwrrs with 10 seeds: [Errno 2] No such file or directory: '../outputs/HICHBA_10000_40000_0.9_0.9_0.9_el_value_weight_degree_neg_policy_0.1/pos_seeds_fwrrs.txt'
+ERROR:root:Error encountered during method fwrrs with 15 seeds: [Errno 2] No such file or directory: '../outputs/HICHBA_10000_40000_0.9_0.9_0.9_el_value_weight_degree_neg_policy_0.1/pos_seeds_fwrrs.txt'
+ERROR:root:Error encountered during method fwrrs with 20 seeds: [Errno 2] No such file or directory: '../outputs/HICHBA_10000_40000_0.9_0.9_0.9_el_value_weight_degree_neg_policy_0.1/pos_seeds_fwrrs.txt'
+ERROR:root:Error encountered during method fwrrs with 25 seeds: [Errno 2] No such file or directory: '../outputs/HICHBA_10000_40000_0.9_0.9_0.9_el_value_weight_degree_neg_policy_0.1/pos_seeds_fwrrs.txt'
+ERROR:root:Error encountered during method degree with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method pagerank with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method cmia-o with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method biog with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rbf with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method fwrrs with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method fair-cmia-o with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method myopic_maximin with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method protect with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method naive_protect with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rl_fnim with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method hifm with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rf with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method gb with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method fwrrs with 5 seeds: [Errno 2] No such file or directory: '../outputs/HICHBA_10000_40000_0.9_0.9_0.9_el_value_weight_degree_neg_policy_0.1/pos_seeds_fwrrs.txt'
+ERROR:root:Error encountered during method fwrrs with 10 seeds: [Errno 2] No such file or directory: '../outputs/HICHBA_10000_40000_0.9_0.9_0.9_el_value_weight_degree_neg_policy_0.1/pos_seeds_fwrrs.txt'
+ERROR:root:Error encountered during method fwrrs with 15 seeds: [Errno 2] No such file or directory: '../outputs/HICHBA_10000_40000_0.9_0.9_0.9_el_value_weight_degree_neg_policy_0.1/pos_seeds_fwrrs.txt'
+ERROR:root:Error encountered during method degree with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method pagerank with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method cmia-o with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method biog with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rbf with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method fwrrs with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method fair-cmia-o with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method myopic_maximin with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method protect with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method naive_protect with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rl_fnim with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method hifm with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rf with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method gb with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method degree with 5 seeds: invalid literal for int() with base 10: ''
+ERROR:root:Error encountered during method biog with 5 seeds: invalid literal for int() with base 10: ''
+ERROR:root:Error encountered during method fwrrs with 5 seeds: invalid literal for int() with base 10: ''
+ERROR:root:Error encountered during method fair-cmia-o with 5 seeds: invalid literal for int() with base 10: ''
+ERROR:root:Error encountered during method myopic_maximin with 5 seeds: invalid literal for int() with base 10: ''
+ERROR:root:Error encountered during method degree with 10 seeds: invalid literal for int() with base 10: ''
+ERROR:root:Error encountered during method biog with 10 seeds: invalid literal for int() with base 10: ''
+ERROR:root:Error encountered during method fwrrs with 10 seeds: invalid literal for int() with base 10: ''
+ERROR:root:Error encountered during method fair-cmia-o with 10 seeds: invalid literal for int() with base 10: ''
+ERROR:root:Error encountered during method myopic_maximin with 10 seeds: invalid literal for int() with base 10: ''
+ERROR:root:Error encountered during method degree with 15 seeds: invalid literal for int() with base 10: ''
+ERROR:root:Error encountered during method biog with 15 seeds: invalid literal for int() with base 10: ''
+ERROR:root:Error encountered during method fwrrs with 15 seeds: invalid literal for int() with base 10: ''
+ERROR:root:Error encountered during method fair-cmia-o with 15 seeds: invalid literal for int() with base 10: ''
+ERROR:root:Error encountered during method myopic_maximin with 15 seeds: invalid literal for int() with base 10: ''
+ERROR:root:Error encountered during method degree with 20 seeds: invalid literal for int() with base 10: ''
+ERROR:root:Error encountered during method biog with 20 seeds: invalid literal for int() with base 10: ''
+ERROR:root:Error encountered during method fwrrs with 20 seeds: invalid literal for int() with base 10: ''
+ERROR:root:Error encountered during method fair-cmia-o with 20 seeds: invalid literal for int() with base 10: ''
+ERROR:root:Error encountered during method myopic_maximin with 20 seeds: invalid literal for int() with base 10: ''
+ERROR:root:Error encountered during method degree with 25 seeds: invalid literal for int() with base 10: ''
+ERROR:root:Error encountered during method biog with 25 seeds: invalid literal for int() with base 10: ''
+ERROR:root:Error encountered during method fwrrs with 25 seeds: invalid literal for int() with base 10: ''
+ERROR:root:Error encountered during method fair-cmia-o with 25 seeds: invalid literal for int() with base 10: ''
+ERROR:root:Error encountered during method myopic_maximin with 25 seeds: invalid literal for int() with base 10: ''
+ERROR:root:Error encountered during method degree with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method pagerank with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method cmia-o with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method biog with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rbf with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method fwrrs with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method fair-cmia-o with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method myopic_maximin with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method protect with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method naive_protect with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rl_fnim with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method hifm with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rf with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method gb with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method degree with 5 seeds: invalid literal for int() with base 10: ''
+ERROR:root:Error encountered during method biog with 5 seeds: invalid literal for int() with base 10: ''
+ERROR:root:Error encountered during method fwrrs with 5 seeds: invalid literal for int() with base 10: ''
+ERROR:root:Error encountered during method fair-cmia-o with 5 seeds: invalid literal for int() with base 10: ''
+ERROR:root:Error encountered during method myopic_maximin with 5 seeds: invalid literal for int() with base 10: ''
+ERROR:root:Error encountered during method degree with 10 seeds: invalid literal for int() with base 10: ''
+ERROR:root:Error encountered during method biog with 10 seeds: invalid literal for int() with base 10: ''
+ERROR:root:Error encountered during method fwrrs with 10 seeds: invalid literal for int() with base 10: ''
+ERROR:root:Error encountered during method fair-cmia-o with 10 seeds: invalid literal for int() with base 10: ''
+ERROR:root:Error encountered during method myopic_maximin with 10 seeds: invalid literal for int() with base 10: ''
+ERROR:root:Error encountered during method degree with 15 seeds: invalid literal for int() with base 10: ''
+ERROR:root:Error encountered during method biog with 15 seeds: invalid literal for int() with base 10: ''
+ERROR:root:Error encountered during method fwrrs with 15 seeds: invalid literal for int() with base 10: ''
+ERROR:root:Error encountered during method fair-cmia-o with 15 seeds: invalid literal for int() with base 10: ''
+ERROR:root:Error encountered during method myopic_maximin with 15 seeds: invalid literal for int() with base 10: ''
+ERROR:root:Error encountered during method degree with 20 seeds: invalid literal for int() with base 10: ''
+ERROR:root:Error encountered during method biog with 20 seeds: invalid literal for int() with base 10: ''
+ERROR:root:Error encountered during method fwrrs with 20 seeds: invalid literal for int() with base 10: ''
+ERROR:root:Error encountered during method fair-cmia-o with 20 seeds: invalid literal for int() with base 10: ''
+ERROR:root:Error encountered during method myopic_maximin with 20 seeds: invalid literal for int() with base 10: ''
+ERROR:root:Error encountered during method degree with 25 seeds: invalid literal for int() with base 10: ''
+ERROR:root:Error encountered during method biog with 25 seeds: invalid literal for int() with base 10: ''
+ERROR:root:Error encountered during method fwrrs with 25 seeds: invalid literal for int() with base 10: ''
+ERROR:root:Error encountered during method fair-cmia-o with 25 seeds: invalid literal for int() with base 10: ''
+ERROR:root:Error encountered during method myopic_maximin with 25 seeds: invalid literal for int() with base 10: ''
+ERROR:root:Error encountered during method degree with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method pagerank with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method cmia-o with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method biog with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rbf with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method fwrrs with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method fair-cmia-o with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method myopic_maximin with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method protect with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method naive_protect with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rl_fnim with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method hifm with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rf with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method gb with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method degree with 5 seeds: invalid literal for int() with base 10: ''
+ERROR:root:Error encountered during method biog with 5 seeds: invalid literal for int() with base 10: ''
+ERROR:root:Error encountered during method fwrrs with 5 seeds: invalid literal for int() with base 10: ''
+ERROR:root:Error encountered during method fair-cmia-o with 5 seeds: invalid literal for int() with base 10: ''
+ERROR:root:Error encountered during method myopic_maximin with 5 seeds: invalid literal for int() with base 10: ''
+ERROR:root:Error encountered during method degree with 10 seeds: invalid literal for int() with base 10: ''
+ERROR:root:Error encountered during method biog with 10 seeds: invalid literal for int() with base 10: ''
+ERROR:root:Error encountered during method fwrrs with 10 seeds: invalid literal for int() with base 10: ''
+ERROR:root:Error encountered during method fair-cmia-o with 10 seeds: invalid literal for int() with base 10: ''
+ERROR:root:Error encountered during method myopic_maximin with 10 seeds: invalid literal for int() with base 10: ''
+ERROR:root:Error encountered during method degree with 15 seeds: invalid literal for int() with base 10: ''
+ERROR:root:Error encountered during method biog with 15 seeds: invalid literal for int() with base 10: ''
+ERROR:root:Error encountered during method fwrrs with 15 seeds: invalid literal for int() with base 10: ''
+ERROR:root:Error encountered during method fair-cmia-o with 15 seeds: invalid literal for int() with base 10: ''
+ERROR:root:Error encountered during method myopic_maximin with 15 seeds: invalid literal for int() with base 10: ''
+ERROR:root:Error encountered during method degree with 20 seeds: invalid literal for int() with base 10: ''
+ERROR:root:Error encountered during method biog with 20 seeds: invalid literal for int() with base 10: ''
+ERROR:root:Error encountered during method fwrrs with 20 seeds: invalid literal for int() with base 10: ''
+ERROR:root:Error encountered during method fair-cmia-o with 20 seeds: invalid literal for int() with base 10: ''
+ERROR:root:Error encountered during method myopic_maximin with 20 seeds: invalid literal for int() with base 10: ''
+ERROR:root:Error encountered during method degree with 25 seeds: invalid literal for int() with base 10: ''
+ERROR:root:Error encountered during method biog with 25 seeds: invalid literal for int() with base 10: ''
+ERROR:root:Error encountered during method fwrrs with 25 seeds: invalid literal for int() with base 10: ''
+ERROR:root:Error encountered during method fair-cmia-o with 25 seeds: invalid literal for int() with base 10: ''
+ERROR:root:Error encountered during method myopic_maximin with 25 seeds: invalid literal for int() with base 10: ''
+ERROR:root:Error encountered during method pagerank with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method cmia-o with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rbf with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method protect with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method naive_protect with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rl_fnim with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method hifm with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rf with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method gb with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method pagerank with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method cmia-o with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rbf with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method protect with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method naive_protect with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rl_fnim with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method hifm with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rf with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method gb with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method pagerank with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method cmia-o with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rbf with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method protect with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method naive_protect with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rl_fnim with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method hifm with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rf with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method gb with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method pagerank with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method cmia-o with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rbf with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method protect with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method naive_protect with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rl_fnim with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method hifm with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rf with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method gb with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method pagerank with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method cmia-o with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rbf with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method protect with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method naive_protect with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rl_fnim with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method hifm with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rf with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method gb with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method pagerank with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method cmia-o with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rbf with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method protect with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method naive_protect with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rl_fnim with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method hifm with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rf with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method gb with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method pagerank with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method cmia-o with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rbf with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method protect with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method naive_protect with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rl_fnim with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method hifm with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rf with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method gb with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method pagerank with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method cmia-o with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rbf with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method protect with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method naive_protect with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rl_fnim with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method hifm with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rf with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method gb with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method pagerank with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method cmia-o with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rbf with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method protect with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method naive_protect with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rl_fnim with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method hifm with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rf with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method gb with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method pagerank with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method cmia-o with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rbf with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method protect with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method naive_protect with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rl_fnim with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method hifm with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rf with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method gb with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method pagerank with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method cmia-o with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rbf with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method protect with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method naive_protect with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rl_fnim with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method hifm with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rf with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method gb with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method pagerank with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method cmia-o with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rbf with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method protect with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method naive_protect with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rl_fnim with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method hifm with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rf with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method gb with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method pagerank with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method cmia-o with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rbf with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method protect with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method naive_protect with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rl_fnim with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method hifm with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rf with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method gb with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method pagerank with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method cmia-o with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rbf with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method protect with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method naive_protect with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rl_fnim with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method hifm with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rf with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method gb with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method pagerank with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method cmia-o with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rbf with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method protect with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method naive_protect with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rl_fnim with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method hifm with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rf with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method gb with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method pagerank with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method cmia-o with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rbf with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method protect with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method naive_protect with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rl_fnim with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method hifm with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rf with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method gb with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method pagerank with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method cmia-o with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rbf with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method protect with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method naive_protect with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rl_fnim with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method hifm with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rf with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method gb with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method pagerank with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method cmia-o with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rbf with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method protect with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method naive_protect with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rl_fnim with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method hifm with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rf with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method gb with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method pagerank with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method cmia-o with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rbf with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method protect with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method naive_protect with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rl_fnim with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method hifm with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rf with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method gb with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method pagerank with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method cmia-o with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rbf with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method protect with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method naive_protect with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rl_fnim with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method hifm with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rf with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method gb with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method pagerank with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method cmia-o with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rbf with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method protect with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method naive_protect with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rl_fnim with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method hifm with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rf with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method gb with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method pagerank with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method cmia-o with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rbf with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method protect with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method naive_protect with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rl_fnim with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method hifm with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rf with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method gb with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method pagerank with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method cmia-o with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rbf with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method protect with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method naive_protect with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rl_fnim with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method hifm with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rf with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method gb with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method pagerank with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method cmia-o with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rbf with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method protect with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method naive_protect with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rl_fnim with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method hifm with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rf with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method gb with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method pagerank with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method cmia-o with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rbf with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method protect with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method naive_protect with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rl_fnim with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method hifm with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rf with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method gb with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method pagerank with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method cmia-o with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rbf with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method protect with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method naive_protect with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rl_fnim with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method hifm with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rf with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method gb with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method pagerank with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method cmia-o with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rbf with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method protect with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method naive_protect with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rl_fnim with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method hifm with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rf with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method gb with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method pagerank with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method cmia-o with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rbf with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method protect with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method naive_protect with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rl_fnim with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method hifm with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rf with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method gb with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method pagerank with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method cmia-o with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rbf with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method protect with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method naive_protect with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rl_fnim with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method hifm with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rf with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method gb with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method pagerank with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method cmia-o with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rbf with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method protect with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method naive_protect with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rl_fnim with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method hifm with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rf with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method gb with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method pagerank with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method cmia-o with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rbf with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method protect with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method naive_protect with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rl_fnim with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method hifm with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rf with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method gb with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method pagerank with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method cmia-o with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rbf with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method protect with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method naive_protect with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rl_fnim with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method hifm with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rf with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method gb with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method pagerank with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method cmia-o with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rbf with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method protect with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method naive_protect with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rl_fnim with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method hifm with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rf with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method gb with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method pagerank with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method cmia-o with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rbf with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method protect with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method naive_protect with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rl_fnim with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method hifm with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rf with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method gb with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method pagerank with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method cmia-o with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rbf with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method protect with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method naive_protect with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rl_fnim with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method hifm with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rf with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method gb with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method pagerank with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method cmia-o with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rbf with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method protect with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method naive_protect with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rl_fnim with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method hifm with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rf with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method gb with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method pagerank with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method cmia-o with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rbf with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method protect with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method naive_protect with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rl_fnim with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method hifm with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rf with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method gb with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method pagerank with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method cmia-o with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rbf with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method protect with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method naive_protect with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rl_fnim with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method hifm with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rf with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method gb with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method pagerank with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method cmia-o with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rbf with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method protect with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method naive_protect with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rl_fnim with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method hifm with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rf with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method gb with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method pagerank with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method cmia-o with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rbf with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method protect with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method naive_protect with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rl_fnim with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method hifm with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rf with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method gb with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method pagerank with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method cmia-o with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rbf with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method protect with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method naive_protect with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rl_fnim with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method hifm with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rf with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method gb with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method pagerank with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method cmia-o with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rbf with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method protect with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method naive_protect with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rl_fnim with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method hifm with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rf with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method gb with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method pagerank with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method cmia-o with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rbf with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method protect with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method naive_protect with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rl_fnim with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method hifm with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rf with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method gb with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method pagerank with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method cmia-o with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rbf with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method protect with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method naive_protect with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rl_fnim with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method hifm with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rf with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method gb with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method pagerank with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method cmia-o with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rbf with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method protect with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method naive_protect with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rl_fnim with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method hifm with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rf with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method gb with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method pagerank with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method cmia-o with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rbf with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method protect with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method naive_protect with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rl_fnim with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method hifm with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rf with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method gb with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method pagerank with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method cmia-o with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rbf with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method protect with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method naive_protect with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rl_fnim with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method hifm with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rf with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method gb with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method pagerank with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method cmia-o with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rbf with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method protect with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method naive_protect with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rl_fnim with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method hifm with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rf with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method gb with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method pagerank with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method cmia-o with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rbf with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method protect with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method naive_protect with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rl_fnim with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method hifm with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rf with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method gb with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method pagerank with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method cmia-o with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rbf with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method protect with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method naive_protect with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rl_fnim with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method hifm with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rf with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method gb with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method pagerank with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method cmia-o with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rbf with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method protect with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method naive_protect with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rl_fnim with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method hifm with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rf with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method gb with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method pagerank with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method cmia-o with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rbf with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method protect with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method naive_protect with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rl_fnim with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method hifm with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rf with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method gb with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method pagerank with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method cmia-o with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rbf with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method protect with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method naive_protect with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rl_fnim with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method hifm with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rf with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method gb with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method pagerank with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method cmia-o with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rbf with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method protect with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method naive_protect with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rl_fnim with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method hifm with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rf with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method gb with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method pagerank with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method cmia-o with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rbf with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method protect with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method naive_protect with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rl_fnim with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method hifm with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rf with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method gb with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method degree with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method pagerank with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method cmia-o with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method biog with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rbf with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rps with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method fwrrs with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method fair-cmia-o with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method greedy_maximin with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method myopic_maximin with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method protect with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method naive_protect with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rl_fnim with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method hifm with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rf with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method gb with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method fwrrs with 5 seeds: [Errno 2] No such file or directory: '../outputs/facebook_combined_value_weight_degree_neg_policy_0.3/pos_seeds_fwrrs.txt'
+ERROR:root:Error encountered during method pagerank with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method cmia-o with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rbf with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method protect with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method naive_protect with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rl_fnim with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method hifm with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rf with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method gb with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method pagerank with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method cmia-o with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rbf with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method protect with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method naive_protect with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rl_fnim with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method hifm with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method rf with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
+ERROR:root:Error encountered during method gb with 0 seeds: cannot access local variable 'vulnerable_nodes' where it is not associated with a value
