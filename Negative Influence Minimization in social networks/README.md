@@ -34,11 +34,9 @@ Four synthetic datasets are generated using the **HICHBA (Highly Clustered Barab
    /code                          # Contains core algorithm code and utility scripts
 
 3. ## **Running the Experiments**
-   To run experiments on synthetic datasets:
+   To run experiments on datasets:
     ```bash
-      python main_synthetic.py
-   To run experiments on real-world datasets:
-     ```bash
+     python main_synthetic.py
      python main_email.py           # Arenas Email
      python main_astrophy.py        # CA-AstroPh
      python main_socfb-Caltech36.py # Socfb-Caltech36
