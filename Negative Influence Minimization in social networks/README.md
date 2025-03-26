@@ -20,8 +20,8 @@ Four synthetic datasets are generated using the **HICHBA (Highly Clustered Barab
 
 Make sure you have **Python 3.x** installed. You can install the required dependencies by running:
 
-```bash
-pip install -r requirements.txt
+   ```bash
+   pip install -r requirements.txt
 
 ## **Project Structure**
 
