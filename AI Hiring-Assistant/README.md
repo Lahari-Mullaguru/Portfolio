@@ -18,9 +18,20 @@
 - [Google Generative AI SDK](https://pypi.org/project/google-generativeai/)
 - [dotenv](https://pypi.org/project/python-dotenv/)
 
-## Setup Instructions
 
-### 1. Clone the repository
-```bash
-git clone https://github.com/your-username/talent-scout-assistant.git
-cd talent-scout-assistant
+## Setup Instructions
+1. **Install Dependencies**:
+   ```bash
+   pip install -r requirements.txt
+2. **Set up environment variables**:
+   Create a .env file in the root directory.
+   I already have the .env file in my repository with my API key.
+   Add your API key:
+   ```bash
+   GOOGLE_API_KEY=your api key here
+3. **Run the Streamlit application**:
+   ```bash
+   python -m streamlit run app.py
+4. **Access the application**:
+   Open your browser and go to http://localhost:8501.
+   start the conversation.
