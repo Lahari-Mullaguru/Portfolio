@@ -130,7 +130,7 @@ curl http://localhost:8000/summary
 python classify_batch.py data/eval_set
 ```
 
-## What's Stubbed / Skipped
+## What's Skipped
 
 - **Authentication / multi-user** — not needed for a single-machine offline deployment.
 - **Tile geo-metadata parsing** — would extract lat/lon from filenames if they encoded it.
