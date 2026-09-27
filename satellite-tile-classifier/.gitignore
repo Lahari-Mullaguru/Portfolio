@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.pyo
+data/
+model/
+tile_store/
+results.db
+*.egg-info/
+dist/
+build/
+.env
